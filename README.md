@@ -1,2 +1,2 @@
 # cook_spatial
-Putting together tract-level spatial data from Cook county for multiple datasources for future research.
+Putting together tract-level spatial data of Cook county from multiple datasources for future research.
