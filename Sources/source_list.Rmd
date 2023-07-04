@@ -1,0 +1,9 @@
+# List of sources included in the project
+
+  * [NSHAP](https://www.icpsr.umich.edu/web/NACDA/studies/34921#)  
+  * [IPUMS NHGIS](https://www.nhgis.org/)  
+  * [OpenStreetMap](https://www.openstreetmap.org/#map=6/40.007/-2.488)  
+  * [EPA](https://www.epa.gov/data)  
+  
+  
+  
