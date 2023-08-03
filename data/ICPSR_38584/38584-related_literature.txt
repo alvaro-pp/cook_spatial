@@ -1,0 +1,17 @@
+Bibliography
+National Neighborhood Data Archive (NaNDA): Traffic Volume by Census Tract
+and ZIP Code Tabulation Area, United States, 1963-2019
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38584. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Coyle, S.; Keehan, S.; Schwartz, J., "Obesity and food access: Do
+consumer preferences matter." American Economist. In Press 2023,. DOI:
+10.1177/05694345231166410

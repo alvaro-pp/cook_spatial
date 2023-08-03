@@ -1,0 +1,81 @@
+File Manifest for ICPSR 38598
+
+Melendez, Robert, Mao Li, Anam Khan, Iris Gomez-Lopez, Philippa Clarke, and
+Megan Chenoweth. National Neighborhood Data Archive (NaNDA): Land Cover by
+Census Tract and ZIP Code Tabulation Area, United States, 2001-2016.
+ICPSR38598-v1. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2022-12-07.
+http://doi.org/10.3886/ICPSR38598.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38598-descriptioncitation.pdf       -       -         -       2022-12-07  -
+
+    38598-related_literature.txt        -       -         -       daily       -
+
+    38598-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Land Cover by Census Tract Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38598-0001-Codebook-ICPSR.pdf       -       -         -       2022-12-07  337f9e9cded442b21352260f4bed0ff2
+
+    38598-0001-Data.dta                 -       1,158,208 37      2022-12-07  20a74e455f79159025dc48eb3bdacc60
+
+    38598-0001-Data.rda                 -       1,158,208 37      2022-12-07  366b653d32b973abb95a5e8af061cf89
+
+    38598-0001-Data.sav                 -       1,158,208 37      2022-12-07  3369a8e2b3493da040deb1a9ef698143
+
+    38598-0001-Data.stc                 -       1,158,208 37      2022-12-07  2b0ddbbf0137afb59096ba506faa477f
+
+    38598-0001-Data.tsv                 -       1,158,208 37      2022-12-07  3622ab7e2bceec644e98a41a5c5278de
+
+    38598-0001-Data.txt                 433     1,158,208 37      2022-12-07  e026a2739a5a1b35e9f3a142b01e55c5
+
+    38598-0001-Documentation.pdf        -       -         -       2022-12-07  4de63ab29e6b0c22ff95259ffd6eacf5
+
+    38598-0001-Setup.dct                -       -         -       2022-12-07  7b494a0225fc8bb58c62c5b7ae958d69
+
+    38598-0001-Setup.do                 -       -         -       2022-12-07  df1b5a4051e7c40b76ae4b19d4116ef9
+
+    38598-0001-Setup.sas                -       -         -       2022-12-07  1eb1b09317ebc6d276a96af8e5fcde62
+
+    38598-0001-Setup.sps                -       -         -       2022-12-07  2379fa3ca0dcdc6c17f966cfdc5e6573
+
+
+DS0002 Land Cover by ZIP Code Tabulation Area Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38598-0002-Codebook-ICPSR.pdf       -       -         -       2022-12-07  c3059e879bfca0cf457dcadaf12144ac
+
+    38598-0002-Data.dta                 -       522,512   38      2022-12-07  de8152a98625e81b5abee8374d237656
+
+    38598-0002-Data.rda                 -       522,512   38      2022-12-07  9c662fdaeb1813cdb1f4f8ab7d828549
+
+    38598-0002-Data.sav                 -       522,512   38      2022-12-07  6e456db23a1e4d8f9a894e5fa3fd2e53
+
+    38598-0002-Data.stc                 -       522,512   38      2022-12-07  3c5ec5574f3e61f98d5cf60b97df675c
+
+    38598-0002-Data.tsv                 -       522,512   38      2022-12-07  8e1d85dcd1285b6a1583568ff93a1b19
+
+    38598-0002-Data.txt                 439     522,512   38      2022-12-07  c0d1585a5c56eb52cb2b99d71693034b
+
+    38598-0002-Documentation.pdf        -       -         -       2022-12-07  2f59a489d9da1311f01ba4061e471a82
+
+    38598-0002-Setup.dct                -       -         -       2022-12-07  dc69c4374a9a7013a3904f17c9d1befe
+
+    38598-0002-Setup.do                 -       -         -       2022-12-07  a5252ce215066a962c5e7e7539bd0dd2
+
+    38598-0002-Setup.sas                -       -         -       2022-12-07  907113e095c5f1f939a68fe510bf2020
+
+    38598-0002-Setup.sps                -       -         -       2022-12-07  84143ab24f4b244bd0dc1e9d32eccdc6
+

@@ -1,0 +1,79 @@
+File Manifest for ICPSR 38586
+
+Melendez, Robert, Mao Li, Anam Khan, Iris Gomez-Lopez, Philippa Clarke, and
+Megan Chenoweth. National Neighborhood Data Archive (NaNDA): Parks by
+Census Tract and ZIP Code Tabulation Area, United States, 2018. ICPSR38586-
+v1.  [distributor], 2022-12-15. http://doi.org/10.3886/ICPSR38586.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38586-descriptioncitation.pdf       -       -         -       2022-12-15  -
+
+    38586-related_literature.txt        -       -         -       daily       -
+
+    38586-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Parks by Census Tract Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38586-0001-Codebook-ICPSR.pdf       -       -         -       2022-12-15  3879c3c9cd207dfa6583b28d70cce0ed
+
+    38586-0001-Data.dta                 -       73,057    11      2022-12-15  9772ecd7e96b3ccad986f07a568ea6e2
+
+    38586-0001-Data.rda                 -       73,057    11      2022-12-15  303b24bd2ec42fd1a1fcdb7891b48f7c
+
+    38586-0001-Data.sav                 -       73,057    11      2022-12-15  02e5102374ad6c21180bd1d6e14a8db1
+
+    38586-0001-Data.stc                 -       73,057    11      2022-12-15  4a1c61b14e10422864cb0e53a8080acb
+
+    38586-0001-Data.tsv                 -       73,057    11      2022-12-15  08cee8772f972d130b7fde9c7fa1f5c8
+
+    38586-0001-Data.txt                 93      73,057    11      2022-12-15  1b1e1b276f5479884bef978fef4844d7
+
+    38586-0001-Documentation.pdf        -       -         -       2022-12-15  614e78770cd8c8e9052104e7753d8352
+
+    38586-0001-Setup.dct                -       -         -       2022-12-15  92b748fab4ca16894532213dbdbc7be2
+
+    38586-0001-Setup.do                 -       -         -       2022-12-15  dd751306ebcc742b53fe99e8ecfec6cb
+
+    38586-0001-Setup.sas                -       -         -       2022-12-15  5d19abbbbaf752eef3faabc84983c134
+
+    38586-0001-Setup.sps                -       -         -       2022-12-15  a89f36737dc1424fc1b205a301490d4f
+
+
+DS0002 Parks by ZIP Code Tabulation Area Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38586-0002-Codebook-ICPSR.pdf       -       -         -       2022-12-15  d6044555d1162dd9efd3c4cd68d91136
+
+    38586-0002-Data.dta                 -       33,144    11      2022-12-15  ad8d278d46ec4c53cb0728e147055a92
+
+    38586-0002-Data.rda                 -       33,144    11      2022-12-15  2f9622eedfb4683f955843cdd2fc4076
+
+    38586-0002-Data.sav                 -       33,144    11      2022-12-15  9a4b6a5b7017841b0da455f981890303
+
+    38586-0002-Data.stc                 -       33,144    11      2022-12-15  2ef8d2261db9871dded9f24ce1b777fc
+
+    38586-0002-Data.tsv                 -       33,144    11      2022-12-15  25f0db484d115294c08f99ab5ed1a477
+
+    38586-0002-Data.txt                 84      33,144    11      2022-12-15  7224d120da87f27d1a33c2dcad79d4a3
+
+    38586-0002-Documentation.pdf        -       -         -       2022-12-15  d0772821e8f523a478a0fec3f8a7151b
+
+    38586-0002-Setup.dct                -       -         -       2022-12-15  3390baf4788987b9b1274700819e6ad6
+
+    38586-0002-Setup.do                 -       -         -       2022-12-15  202d5c387fd1c3f5292823f8acbbc53e
+
+    38586-0002-Setup.sas                -       -         -       2022-12-15  5af22849a5e67f2c6ee266bbd6ed7692
+
+    38586-0002-Setup.sps                -       -         -       2022-12-15  91cdb8efb7ab2b06b78f6e446862ce7d
+

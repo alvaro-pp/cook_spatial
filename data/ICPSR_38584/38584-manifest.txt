@@ -1,0 +1,87 @@
+File Manifest for ICPSR 38584
+
+Finlay, Jessica M., Robert Melendez, Michael Esposito, Anam Khan, Mao Li,
+Iris Gomez-Lopez, Philippa Clarke, and Megan Chenoweth. National
+Neighborhood Data Archive (NaNDA): Traffic Volume by Census Tract and ZIP
+Code Tabulation Area, United States, 1963-2019 . ICPSR38584-v2. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2022-11-10. http://doi.org/10.3886/ICPSR38584.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38584-descriptioncitation.pdf       -       -         -       2022-11-10  -
+
+    38584-related_literature.txt        -       -         -       daily       -
+
+    38584-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Traffic Volume by Census Tract Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38584-0001-Codebook-ICPSR.pdf       -       -         -       2022-11-10  bebe92a5f17699e4bdad6aec38f29789
+
+    38584-0001-Data.dta                 -       671,735   21      2022-11-07  897ad332684157a2a0a28ca58bdd1c03
+
+    38584-0001-Data.rda                 -       671,735   21      2022-11-07  174851f9aaf15be1e32228e8b5a90561
+
+    38584-0001-Data.sav                 -       671,735   21      2022-11-07  88599d482a876589af5c5b7bf625ad1a
+
+    38584-0001-Data.stc                 -       671,735   21      2022-11-07  998df6bd1751b69078029fe7a9e26773
+
+    38584-0001-Data.tsv                 -       671,735   21      2022-11-07  0b82f45821f08a4fde06cbdd1dd8fa9b
+
+    38584-0001-Data.txt                 177     671,735   21      2022-11-07  12da6f30fa0019a6312902786e82ad75
+
+    38584-0001-Documentation.pdf        -       -         -       2022-11-07  82179b666c17c476e342ed0764b6a5d2
+
+    38584-0001-Setup.dct                -       -         -       2022-11-07  7acd01e91c92486047e3bd0f8ad9ce28
+
+    38584-0001-Setup.do                 -       -         -       2022-11-07  f7ef781d2385f33aa8d9aca58640f368
+
+    38584-0001-Setup.sas                -       -         -       2022-11-07  13b2272e0cfd7decaed8331427f35174
+
+    38584-0001-Setup.sps                -       -         -       2022-11-07  ff45de3b6b0400d8f5fa3707b7c7e304
+
+
+DS0002 Traffic Volume by ZIP Code Tabulation Area Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38584-0002-Codebook-ICPSR.pdf       -       -         -       2022-11-10  1bdd45338ecd7ae7720765385630d3ec
+
+    38584-0002-Data.dta                 -       675,326   22      2022-11-07  ef671e8b43a3db00faba63f798a29dca
+
+    38584-0002-Data.rda                 -       675,326   22      2022-11-07  67690266273f7d68a515156bf6ef7267
+
+    38584-0002-Data.sav                 -       675,326   22      2022-11-07  0ceab4539ef96b8cfdd53f7b50e0c779
+
+    38584-0002-Data.stc                 -       675,326   22      2022-11-07  f9a85bf87683e5abddd01bd6153e8c7e
+
+    38584-0002-Data.tsv                 -       675,326   22      2022-11-07  1b83d2b4e1102f157c552fb747b89df4
+
+    38584-0002-Data.txt                 285     675,326   22      2022-11-07  9cb03baef2b5f628947a16bfb43692fc
+
+    38584-0002-Documentation.pdf        -       -         -       2022-11-07  f0c5567ddbe3e8c2e52373c5c1b1172c
+
+    38584-0002-Setup.dct                -       -         -       2022-11-07  175dea636b328d1ee2c06056fc9e18c4
+
+    38584-0002-Setup.do                 -       -         -       2022-11-07  63b584510976eb4c53b98b615712802e
+
+    38584-0002-Setup.sas                -       -         -       2022-11-07  9b08e1e49d77eeb3c9849bc22d10e752
+
+    38584-0002-Setup.sps                -       -         -       2022-11-07  3f62f0e730f4badc349a4db3c6332376
+
+
+Version History
+
+2022-11-10 The study website link was updated in the ICPSR codebooks.

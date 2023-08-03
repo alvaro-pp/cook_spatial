@@ -1,0 +1,39 @@
+Bibliography
+National Neighborhood Data Archive (NaNDA): Land Cover by Census Tract and
+ZIP Code Tabulation Area, United States, 2001-2016
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38598. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ahn, Yoonjung; Uejio, Christopher K., "Modeling air conditioning
+ownership and availability." Urban Climate. 2022, 46,. DOI:
+10.1016/j.uclim.2022.101322
+
+2. Manware, Mitchell, "Residential and Race/Ethnicity Disparities in Heat
+Vulnerability in the United States." Thesis, Yale University, 2023.
+
+3. Manware, Mitchell; Dubrow, Robert; Carrion, Daniel; Ma, Yiqun; Chen,
+Kai, "Residential and race/ethnicity disparities in heat vulnerability in
+the United States." GeoHealth. 2022, 6, (12),. DOI: 10.1029/2022GH000695
+
+4. Rothwell, Jonathan; Loh, Tracy Hadden; Perry, Andre, "The Devaluation of
+Assets in Black neighborhoods: The Case of Commercial Property." Brookings
+Institute, Jul 2022.
+Abstract: https://www.brookings.edu/research/the-devaluation-of-assets-in-black-neighborhoods-the-case-of-commercial-property/
+
+5. Schusler, Tania M.; Krings, Amy; Melstrom, Richard T., "Experiences with
+environmental gentrification: Evidence from Chicago." Landscape and Urban
+Planning. 2023, 236,. DOI: 10.1016/j.landurbplan.2023.104765
+Abstract: https://www.brookings.edu/research/the-devaluation-of-assets-in-black-neighborhoods-the-case-of-commercial-property/
+
+6. Talen, Emily, "The socio-economic context of form-based codes."
+Landscape and Urban Planning. 2021, 214, (104182),. DOI:
+10.1016/j.landurbplan.2021.104182
+Abstract: https://www.brookings.edu/research/the-devaluation-of-assets-in-black-neighborhoods-the-case-of-commercial-property/

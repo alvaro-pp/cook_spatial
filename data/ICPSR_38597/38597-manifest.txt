@@ -1,0 +1,81 @@
+File Manifest for ICPSR 38597
+
+Finlay, Jessica M., Robert Melendez, Michael Esposito, Anam Khan, Mao Li,
+Iris Gomez-Lopez, Philippa Clarke, and Megan Chenoweth. National
+Neighborhood Data Archive (NaNDA): Polluting Sites by Census Tract and ZIP
+Code Tabulation Area, United States, 2000-2018. ICPSR38597-v1. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2022-11-29. http://doi.org/10.3886/ICPSR38597.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38597-descriptioncitation.pdf       -       -         -       2022-11-29  -
+
+    38597-related_literature.txt        -       -         -       daily       -
+
+    38597-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Polluting Sites by Census Tract Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38597-0001-Codebook-ICPSR.pdf       -       -         -       2022-11-29  b94ae4c33fd2aca696dbc318b74a1438
+
+    38597-0001-Data.dta                 -       1,408,546 3       2022-11-29  301864b7d8761e9ee73f495702c52b0e
+
+    38597-0001-Data.rda                 -       1,408,546 3       2022-11-29  fba241d6c6478eacdd25dfe4dfb0560d
+
+    38597-0001-Data.sav                 -       1,408,546 3       2022-11-29  7b3faf9798220fd8d1ea8b6083f7d371
+
+    38597-0001-Data.stc                 -       1,408,546 3       2022-11-29  3d30f1a626e7b1ae66da710a39512114
+
+    38597-0001-Data.tsv                 -       1,408,546 3       2022-11-29  9e31469cc7da23e4456c8948efe217af
+
+    38597-0001-Data.txt                 17      1,408,546 3       2022-11-29  761d6b01d7be1747e7428bc8c4f6b1de
+
+    38597-0001-Documentation.pdf        -       -         -       2022-11-29  1bb698b5a70b2eeaa53452cfe1f80bcc
+
+    38597-0001-Setup.dct                -       -         -       2022-11-29  5fbf8b1227fc6a3b82990e413fe98914
+
+    38597-0001-Setup.do                 -       -         -       2022-11-29  3d48101277ff05b3ca1295effff50cac
+
+    38597-0001-Setup.sas                -       -         -       2022-11-29  457224cfa984b6e869e5c71b320587ec
+
+    38597-0001-Setup.sps                -       -         -       2022-11-29  6ba33be760828b24a551e68988e4febc
+
+
+DS0002 Polluting Sites by ZIP Code Tabulation Area Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38597-0002-Codebook-ICPSR.pdf       -       -         -       2022-11-29  b4b5036c5e1082b3f1081491b5433a93
+
+    38597-0002-Data.dta                 -       629,736   3       2022-11-29  170e9eb0b2a84a62be671d8753110a46
+
+    38597-0002-Data.rda                 -       629,736   3       2022-11-29  0a304a74a6228d44df28e32b104fecd2
+
+    38597-0002-Data.sav                 -       629,736   3       2022-11-29  49fc7d43626a9f3aa7372b7f68373776
+
+    38597-0002-Data.stc                 -       629,736   3       2022-11-29  2553a38c8f0cc1cab02c9828904c5bd4
+
+    38597-0002-Data.tsv                 -       629,736   3       2022-11-29  9780599d5b601f0aec2bf96169755f29
+
+    38597-0002-Data.txt                 11      629,736   3       2022-11-29  3122abae99cb56eff3ce095b837e65e3
+
+    38597-0002-Documentation.pdf        -       -         -       2022-11-29  97b97cf1abac942fca242417a6e4bb67
+
+    38597-0002-Setup.dct                -       -         -       2022-11-29  51f9f0e8670d94c0f9d207dd3287544e
+
+    38597-0002-Setup.do                 -       -         -       2022-11-29  a9410000a7a2a0362969cf637a7411e9
+
+    38597-0002-Setup.sas                -       -         -       2022-11-29  1c54aaf5b87e386cdb63da8df208f575
+
+    38597-0002-Setup.sps                -       -         -       2022-11-29  9d6098889d1fda077dbbbd3861aa01af
+
