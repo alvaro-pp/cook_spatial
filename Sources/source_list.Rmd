@@ -5,7 +5,9 @@
 -   [OpenStreetMap](https://www.openstreetmap.org/#map=6/40.007/-2.488)\
 -   [EPA](https://www.epa.gov/data)
 -   [NANDA](https://www.icpsr.umich.edu/web/ICPSR/series/1920)
-- [Selected sources from Professor Noli Brazil's course "Quantitative Methods in Community Research" taught at U.C. Davis](https://crd150.github.io/ndata.html)
+- [Selected sources from Professor Noli Brazil's course "Quantitative Methods in Community Research" taught at U.C. Davis](https://crd150.github.io/ndata.html)  
+- [Array of things](https://arrayofthings.github.io/)
+- [PHDCN](https://www.icpsr.umich.edu/web/pages/NACJD/guides/phdcn/index.html)
 
 
 
