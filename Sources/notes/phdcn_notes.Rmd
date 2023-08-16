@@ -1,0 +1,22 @@
+---
+title: "phdcn_notes"
+author: "Thelonious Goerz"
+date: "2023-08-11"
+output: html_document
+---
+
+Per the [PHDCN](https://www.icpsr.umich.edu/web/NACJD/studies/2766), the first wave of community survey data requires: 
+
+###.General Requirements:
+
+- appointment at research institution; appointment must be under the jurisdiction of the receiving institution
+- degree requirements (possibly doctorate)
+- Must be submitted:
+
+project description
+
+- IRB approval
+- approved security plan
+- roster of research and IT staff who can access or view the data or computer where data are hosted.
+- confidentiality pledges for all people on roster
+- CV

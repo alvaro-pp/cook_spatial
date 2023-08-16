@@ -1,0 +1,11 @@
+---
+title: "epa data"
+author: "Thelonious Goerz"
+date: "2023-08-11"
+output: html_document
+---
+
+Water quality geospatial data can be queried from the [EPA](https://www.waterqualitydata.us/#countrycode=US&mimeType=csv&providers=NWIS&providers=STEWARDS&providers=STORET)
+
+- Water quality metrics need to be investigated, it is not clear what they mean on a first glance
+- Air Quality Data are at the county level so not granular enough. 
