@@ -1,0 +1,23 @@
+---
+title: "2023_08_16_notes"
+author: "Álvaro Padilla-Pozo & Thelonious Goerz"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Goals:  
+
+  1. Create a variable codebook/guide. 
+    1.1. Format: Variable - Source - Short description.
+  2. Move our data to Box/Dropbox.
+    2.1. Delete our data folder to save space on the repo.  
+    
+# Discussed topics:
+
+  * Focusing on "useful" variables.  
+  * Thelonious' work with EPA data.  
+  
